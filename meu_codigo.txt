@@ -1,0 +1,1 @@
+Isso é apenas um exemplo para ensinar um pouco de git
